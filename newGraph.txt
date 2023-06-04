@@ -1,0 +1,11 @@
+0
+src  10  trg  9  wht  15
+src  9  trg  8  wht  2
+src  8  trg  7  wht  9
+src  7  trg  6  wht  8
+src  6  trg  5  wht  2
+src  5  trg  4  wht  13
+src  4  trg  3  wht  12
+src  3  trg  2  wht  19
+src  2  trg  1  wht  6
+src  10  trg  1  wht  14
