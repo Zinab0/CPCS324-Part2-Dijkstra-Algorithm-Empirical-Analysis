@@ -1,8 +1,12 @@
 # Dijkstra Algorithm Empirical Analysis
 ## Intoduction
 Dijkstra's algorithm is a greedy algorithm for finding the shortest paths between nodes in a weighted graph. It works by iteratively adding the node with the shortest known distance to a set of visited nodes. The algorithm terminates when all nodes have been visited.
+ 
+Air freight is a system of transporting goods by aircraft. The problem is to find the shortest path between two locations, minimizing the distance traveled and the number of stops. This can be done using the Dijkstra algorithm.
 
-for more detail, refer to the [project report](./CPCS324-Project-Part2.pdf).
+The Dijkstra algorithm is a powerful tool that can be used to improve the efficiency of air freight transportation. By implementing the Dijkstra algorithm in a software application, air freight companies can save money and improve the speed and reliability of their delivery service.
+
+For more detail, refer to the [project report](./CPCS324-Project-Part2.pdf).
 
 ## Purpose
 The purpose of this study was to compare the theoretical time efficiency of Dijkstra's algorithm to its empirical time efficiency.
