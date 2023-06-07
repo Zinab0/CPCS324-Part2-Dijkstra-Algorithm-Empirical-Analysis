@@ -1,7 +1,7 @@
 # Dijkstra Algorithm Empirical Analysis
 ## Intoduction
 Dijkstra's algorithm is a greedy algorithm for finding the shortest paths between nodes in a weighted graph. It works by iteratively adding the node with the shortest known distance to a set of visited nodes. The algorithm terminates when all nodes have been visited.
-for more more detail, refer to the [project report](CPCS324-Project-Part#2.pdf).
+for more more detail, refer to the [project report](./CPCS324-Project-Part#2.pdf).
 ## Purpose
 The purpose of this study was to compare the theoretical time efficiency of Dijkstra's algorithm to its empirical time efficiency.
 
